@@ -1,0 +1,251 @@
+html {overflow-y: scroll;}
+
+body {
+
+  background-color: #ffffff;
+
+  font-family: verdana, sans-serif;
+
+  font-size: 14px;
+
+}
+
+.header_menu {
+
+  background-color: #f0f0f0;
+
+  border-style: dotted;
+
+  border-width: 1px;
+
+  padding-right: 30px;
+
+}
+
+.header_links {
+
+  padding-top: 4px;
+
+  padding-right: 4px;
+
+  padding-bottom: 4px;
+
+  text-align: right;
+
+}
+
+.middle_section {
+
+  border-spacing: 0px;
+  
+  border-collapse: separate;
+
+  background-color: #ffffff;
+
+  border-style: dotted;
+
+  border-width: 0px;
+
+}
+
+.middle_section_innertable {
+
+  border-spacing: 0px;
+  
+  border-collapse: separate;
+
+  background-color: #ffffff;
+
+  border-style: dotted;
+
+  border-width: 0px;
+
+}
+
+.right_cell {
+
+  border-radius: 5px;
+
+  background-color: orangered;
+
+  text-align: center;
+
+}
+
+.footer {
+
+  border-spacing: 0px;
+  
+  border-collapse: separate;
+
+  background-color: #ffffff;
+
+  border-style: dotted none none none;
+
+  border-width: 1px;
+
+}
+
+table {
+
+  border-collapse: collapse;
+
+  border-style: dotted;
+
+}
+
+.read_db {
+  
+  border-spacing: 0px;  
+  
+  border-collapse: separate;  
+
+  border-style: dotted;
+
+  border-width: 0px;
+
+}
+
+.read_db2 {
+  
+  border-spacing: 0px;  
+  
+  border-collapse: separate;  
+
+  border-style: dotted;
+
+  border-width: 0px;
+
+  padding-top: 0px;
+
+  }
+
+.read_db_td_padding {
+
+  padding-top: 10px;
+
+  text-align: left;
+
+}
+
+.cap_america {
+
+  padding-top: 10px;
+
+  text-align: center;
+
+}
+
+th, td {
+
+  border: 0px solid red;
+
+  padding: 0px;
+
+  font-weight: normal;
+
+}
+
+a:link, a:visited {
+
+  display:block;
+
+  width: 120px;
+
+  background-color: #000000;
+
+  color: white;
+
+  padding: 4px 10px;
+
+  text-align: center;
+
+  text-decoration: none;
+
+  display: inline-block;
+
+  font-size: 14px;
+
+  border-radius: 5px;
+
+}
+
+a:hover, a:active {
+
+  background-color: red;
+
+  font-size: 14px;
+
+}
+
+input[type=text], input[type=password] {
+
+  border: 1px solid black;
+
+  border-radius: 5px;
+
+  width: 70%;
+
+}
+
+
+/*
+input[type=button], input[type=submit], input[type=reset] {
+
+  background-color: #4CAF50;
+
+  border: none;
+
+  color: white;
+
+  padding: 16px 32px;
+
+  text-decoration: none;
+
+  margin: 4px 2px;
+
+  cursor: pointer;
+
+} */
+
+.loginbox input[type="submit"] {
+
+  border: none;
+
+  outline:none;
+
+  height:28px;
+
+  width: 120px;
+
+  background:#fb2525;
+
+  color: #fff;
+
+  font-size: 14px;
+
+  border-radius:4px;
+
+}
+
+.loginbox input[type="submit"]:hover {
+
+  cursor:pointer;
+
+  background: #04AA6D;
+
+  color:#000;
+
+}
+
+.active {
+
+  color:#fff;
+
+  background:#e02626;
+
+  border-radius:4px;
+
+  background-color: #04AA6D;
+
+}
