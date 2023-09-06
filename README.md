@@ -1,2 +1,2 @@
-# crud_zerothree
-Users can register account
+# crud ( Create, Read, Update and Delete )
+Registration and Login System with PHP and MySQL
